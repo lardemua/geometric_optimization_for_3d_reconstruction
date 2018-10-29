@@ -1,2 +1,2 @@
-# geometric_optimization_for_3d_reconstruction
+# Geometric Optimization for 3D Reconstruction
 Master's thesis in the course Engenharia de Computadores e Telemática at University of Aveiro
